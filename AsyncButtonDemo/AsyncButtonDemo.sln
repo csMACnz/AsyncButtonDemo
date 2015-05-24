@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncButtonDemo", "AsyncButtonDemo\AsyncButtonDemo.csproj", "{8AC0AF7C-886F-4916-B89D-175BF4EB28B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncButtonDemo.Caliburn", "AsyncButtonDemo.Caliburn\AsyncButtonDemo.Caliburn.csproj", "{5F1023B1-0B44-412E-985F-E9B8B1B148B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8AC0AF7C-886F-4916-B89D-175BF4EB28B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AC0AF7C-886F-4916-B89D-175BF4EB28B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AC0AF7C-886F-4916-B89D-175BF4EB28B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1023B1-0B44-412E-985F-E9B8B1B148B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1023B1-0B44-412E-985F-E9B8B1B148B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1023B1-0B44-412E-985F-E9B8B1B148B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1023B1-0B44-412E-985F-E9B8B1B148B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

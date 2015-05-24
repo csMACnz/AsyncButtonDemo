@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="AsyncButtonDemo.Caliburn.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cal="http://www.caliburnproject.org"
+        Height="350" Width="525"
+        >
+    <StackPanel>
+        <Button Content="Bad Button" x:Name="BadButtonOnClick"/>
+        <Button Content="Another Bad Button" x:Name="AnotherBadButtonOnClick"/>
+        <Button Content="Correct Button" x:Name="CorrectButtonOnClick"/>
+    </StackPanel>
+</UserControl>
