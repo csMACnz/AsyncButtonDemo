@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Buggy Async Test" Height="350" Width="525">
     <StackPanel>
-        <Button Content="Bad Button" Click="Button_Click"/>
-        <Button Content="Correct Button" Click="Button_Click_1"/>
+        <Button Content="Bad Button" Click="BadButtonOnClick"/>
+        <Button Content="Correct Button" Click="CorrectButtonOnClick"/>
     </StackPanel>
 </Window>
